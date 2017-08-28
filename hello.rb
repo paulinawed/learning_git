@@ -2,5 +2,13 @@ class Hello
   def say_hello
     puts "hello"
   end
+
+
+def say_goodbye
+  puts"goddbye"
 end
-Hello.new.say_hello
+
+
+end
+hello= Hello.new
+hello.say_hello
