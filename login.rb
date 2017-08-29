@@ -1,2 +1,2 @@
 puts "Puts login"
-login= gets
+login= gets.chomp
