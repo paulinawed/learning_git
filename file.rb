@@ -1,7 +1,4 @@
 class Hello
-def initialize
-  puts "initializing object"
-end
   def say_hello
     puts "hello"
   end
