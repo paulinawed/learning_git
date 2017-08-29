@@ -15,6 +15,11 @@ def say_hi
   puts "hi"
 end
 
+def say_something
+  puts "somethinh"
+end
+
+
 end
 hello= Hello.new
 hello.say_hello
